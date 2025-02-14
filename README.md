@@ -35,7 +35,9 @@ Um minigame desenvolvido para o 8° ano do IEPAM em 2024, em parceria com o prof
 ## 🔌 Fiação
 
 🔹 **Botão Time 1** → Pino **7**
+
 🔹 **Botão Time 2** → Pino **8**
+
 🔹 **Botão Reset** → Pino **2**
 
 ---
