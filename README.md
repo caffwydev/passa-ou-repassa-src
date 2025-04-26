@@ -1,4 +1,6 @@
 # 🎮 PASSA OU REPASSA 🎮
+> [!WARNING]
+> Descontinuado em favor do https://github.com/mochly-labs/genius-play
 
 Um minigame desenvolvido para o 8° ano do IEPAM em 2024, em parceria com o professor Thiago de Matemática. 🏫📚
 
